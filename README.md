@@ -5,14 +5,14 @@
 ## Estructura del Proyecto 🏗️
 
 ### 1. Limpieza de Datos 🧹
-   - **Notebook 1**: Limpieza de datos de la Gobernación y el DANE para la población.
-   - **Notebook 2**: Limpieza de datos de Meteoblu y NASA para la temperatura y presión.
+   - **DANE y GOBERNACIÓN**: Limpieza de datos de la Gobernación y el DANE para la población.
+   - **Temperatura**: Limpieza de datos de Meteoblu y NASA para la temperatura y presión.
 
 ### 2. Consolidación de Información 📦
-   - **Notebook 3**: Integración de datos para crear un conjunto completo y listo para el análisis.
+   - **consolidado**: Integración de datos para crear un conjunto completo y listo para el análisis.
 
 ### 3. Análisis de Correlación 📈
-   - **Notebook 4**: Exploración de la correlación entre temperatura vs población y temperatura vs presión.
+   - **Analisis**: Exploración de la correlación entre temperatura vs población y temperatura vs presión.
 
 ## Fuentes de Datos 📂
 
